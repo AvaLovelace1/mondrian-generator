@@ -1,5 +1,7 @@
 # mondrian-generator
-A program that I wrote because I was too lazy to do my art homework ;).
+A program that I wrote because I was too lazy to do my art homework ;)
+
+![alt-text](https://github.com/AvaLovelace1/mondrian-generator/blob/master/sample-1.png?raw=true "sample-1")
 
 Generates abstract modern art in the style of **Piet Mondrian**, following these general rules:
 * Every piece consists of only two elements: lines and coloured panes.
